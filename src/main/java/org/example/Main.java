@@ -26,7 +26,7 @@ public class Main {
         String endDate = null;
 
         String unitGroup = "metric";
-        String apiKey = "R4KM5FQJXHNSMJG2NYYTQW3XJ";
+        String apiKey = "";
 
         StringBuilder request = new StringBuilder(apiPoint);
         request.append(loaction);
